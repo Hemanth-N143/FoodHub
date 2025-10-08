@@ -31,10 +31,9 @@ It features **user authentication**, **real-time cart management**, and **secure
 
 ---
 
-## 🎬 Project Demo
+## 🎬 FOODHUB Demo
 
-▶️ **Watch the full Video:** 
-
+Watch or download the video here: [FOODHUB Demo Video](https://drive.google.com/file/d/1KDYnkroHyooqbGRcZ1YWbB5GhmJgz5mQ/view?usp=drive_link)
 
 
 
